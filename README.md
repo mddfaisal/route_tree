@@ -14,7 +14,7 @@ This Go library provides an efficient HTTP router implementation that stores URL
 
 * High performance: Optimized path matching algorithm
 
-* High customization: As it provides minimal functionality and allowed high customization.
+* High customization: As it provides minimal functionality and allowed high customization, who want to write their http server from scratch with http package provided by golang.
 
 
 ## Installation

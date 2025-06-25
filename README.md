@@ -1,4 +1,4 @@
-# Go HTTP Router Library
+# HTTP routes segments in tree form
 
 ## Overview
 ###
@@ -22,14 +22,11 @@ This Go library provides an efficient HTTP router implementation that stores URL
 go get github.com/mddfaisal/route_manager
 ```
 
-## Sample code
-```
-```
 
 ###
 
 # Sample tree structure created by this library.
-![tree](https://github.com/mddfaisal/RouteManager/blob/master/tree.png)
+![tree](https://github.com/mddfaisal/route_tree/blob/develop/tree.png)
 
 
 # Performance

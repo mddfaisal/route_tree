@@ -40,7 +40,7 @@ go get github.com/mddfaisal/route_tree
 * No regular expression compilation for standard routes
 
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue.
 License
 
 [MIT](https://choosealicense.com/licenses/mit/)

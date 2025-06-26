@@ -19,7 +19,7 @@ This Go library provides an efficient HTTP router implementation that stores URL
 
 ## Installation
 ```
-go get github.com/mddfaisal/route_manager
+go get github.com/mddfaisal/route_tree
 ```
 
 
